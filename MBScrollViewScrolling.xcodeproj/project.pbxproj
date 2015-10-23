@@ -9,10 +9,17 @@
 /* Begin PBXBuildFile section */
 		84BA12BB1BDA28D400F44EE3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12BA1BDA28D400F44EE3 /* main.m */; };
 		84BA12BE1BDA28D400F44EE3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12BD1BDA28D400F44EE3 /* AppDelegate.m */; };
-		84BA12C11BDA28D400F44EE3 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12C01BDA28D400F44EE3 /* ViewController.m */; };
-		84BA12C41BDA28D400F44EE3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12C21BDA28D400F44EE3 /* Main.storyboard */; };
 		84BA12C61BDA28D400F44EE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12C51BDA28D400F44EE3 /* Assets.xcassets */; };
 		84BA12C91BDA28D400F44EE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12C71BDA28D400F44EE3 /* LaunchScreen.storyboard */; };
+		84BA12DC1BDA2BD800F44EE3 /* pic_1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12D11BDA2BD800F44EE3 /* pic_1.jpg */; settings = {ASSET_TAGS = (); }; };
+		84BA12DD1BDA2BD800F44EE3 /* pic_2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12D21BDA2BD800F44EE3 /* pic_2.jpg */; settings = {ASSET_TAGS = (); }; };
+		84BA12DE1BDA2BD800F44EE3 /* pic_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12D31BDA2BD800F44EE3 /* pic_3.jpg */; settings = {ASSET_TAGS = (); }; };
+		84BA12DF1BDA2BD800F44EE3 /* pic_4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12D41BDA2BD800F44EE3 /* pic_4.jpg */; settings = {ASSET_TAGS = (); }; };
+		84BA12E11BDA2BD800F44EE3 /* pic_5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84BA12D61BDA2BD800F44EE3 /* pic_5.jpg */; settings = {ASSET_TAGS = (); }; };
+		84BA12E21BDA2BD800F44EE3 /* UIImage+Expand.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12D91BDA2BD800F44EE3 /* UIImage+Expand.m */; settings = {ASSET_TAGS = (); }; };
+		84BA12E31BDA2BD800F44EE3 /* UIView+frameAdjust.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12DB1BDA2BD800F44EE3 /* UIView+frameAdjust.m */; settings = {ASSET_TAGS = (); }; };
+		84BA12E71BDA2C3800F44EE3 /* ScrollingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12E61BDA2C3800F44EE3 /* ScrollingViewController.m */; settings = {ASSET_TAGS = (); }; };
+		84BA12EA1BDA2CDB00F44EE3 /* MBScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 84BA12E91BDA2CDB00F44EE3 /* MBScrollView.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,12 +27,22 @@
 		84BA12BA1BDA28D400F44EE3 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		84BA12BC1BDA28D400F44EE3 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		84BA12BD1BDA28D400F44EE3 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		84BA12BF1BDA28D400F44EE3 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		84BA12C01BDA28D400F44EE3 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		84BA12C31BDA28D400F44EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		84BA12C51BDA28D400F44EE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84BA12C81BDA28D400F44EE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84BA12CA1BDA28D400F44EE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84BA12D11BDA2BD800F44EE3 /* pic_1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_1.jpg; sourceTree = "<group>"; };
+		84BA12D21BDA2BD800F44EE3 /* pic_2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_2.jpg; sourceTree = "<group>"; };
+		84BA12D31BDA2BD800F44EE3 /* pic_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_3.jpg; sourceTree = "<group>"; };
+		84BA12D41BDA2BD800F44EE3 /* pic_4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_4.jpg; sourceTree = "<group>"; };
+		84BA12D61BDA2BD800F44EE3 /* pic_5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pic_5.jpg; sourceTree = "<group>"; };
+		84BA12D81BDA2BD800F44EE3 /* UIImage+Expand.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Expand.h"; sourceTree = "<group>"; };
+		84BA12D91BDA2BD800F44EE3 /* UIImage+Expand.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Expand.m"; sourceTree = "<group>"; };
+		84BA12DA1BDA2BD800F44EE3 /* UIView+frameAdjust.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+frameAdjust.h"; sourceTree = "<group>"; };
+		84BA12DB1BDA2BD800F44EE3 /* UIView+frameAdjust.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+frameAdjust.m"; sourceTree = "<group>"; };
+		84BA12E51BDA2C3800F44EE3 /* ScrollingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ScrollingViewController.h; sourceTree = "<group>"; };
+		84BA12E61BDA2C3800F44EE3 /* ScrollingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScrollingViewController.m; sourceTree = "<group>"; };
+		84BA12E81BDA2CDB00F44EE3 /* MBScrollView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBScrollView.h; sourceTree = "<group>"; };
+		84BA12E91BDA2CDB00F44EE3 /* MBScrollView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBScrollView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +75,11 @@
 		84BA12B81BDA28D400F44EE3 /* MBScrollViewScrolling */ = {
 			isa = PBXGroup;
 			children = (
+				84BA12E41BDA2C0C00F44EE3 /* Classes */,
+				84BA12D01BDA2BD800F44EE3 /* Image */,
+				84BA12D71BDA2BD800F44EE3 /* Tools */,
 				84BA12BC1BDA28D400F44EE3 /* AppDelegate.h */,
 				84BA12BD1BDA28D400F44EE3 /* AppDelegate.m */,
-				84BA12BF1BDA28D400F44EE3 /* ViewController.h */,
-				84BA12C01BDA28D400F44EE3 /* ViewController.m */,
-				84BA12C21BDA28D400F44EE3 /* Main.storyboard */,
 				84BA12C51BDA28D400F44EE3 /* Assets.xcassets */,
 				84BA12C71BDA28D400F44EE3 /* LaunchScreen.storyboard */,
 				84BA12CA1BDA28D400F44EE3 /* Info.plist */,
@@ -77,6 +94,40 @@
 				84BA12BA1BDA28D400F44EE3 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		84BA12D01BDA2BD800F44EE3 /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				84BA12D11BDA2BD800F44EE3 /* pic_1.jpg */,
+				84BA12D21BDA2BD800F44EE3 /* pic_2.jpg */,
+				84BA12D31BDA2BD800F44EE3 /* pic_3.jpg */,
+				84BA12D41BDA2BD800F44EE3 /* pic_4.jpg */,
+				84BA12D61BDA2BD800F44EE3 /* pic_5.jpg */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		84BA12D71BDA2BD800F44EE3 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				84BA12D81BDA2BD800F44EE3 /* UIImage+Expand.h */,
+				84BA12D91BDA2BD800F44EE3 /* UIImage+Expand.m */,
+				84BA12DA1BDA2BD800F44EE3 /* UIView+frameAdjust.h */,
+				84BA12DB1BDA2BD800F44EE3 /* UIView+frameAdjust.m */,
+			);
+			path = Tools;
+			sourceTree = "<group>";
+		};
+		84BA12E41BDA2C0C00F44EE3 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				84BA12E51BDA2C3800F44EE3 /* ScrollingViewController.h */,
+				84BA12E61BDA2C3800F44EE3 /* ScrollingViewController.m */,
+				84BA12E81BDA2CDB00F44EE3 /* MBScrollView.h */,
+				84BA12E91BDA2CDB00F44EE3 /* MBScrollView.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,9 +188,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84BA12DC1BDA2BD800F44EE3 /* pic_1.jpg in Resources */,
 				84BA12C91BDA28D400F44EE3 /* LaunchScreen.storyboard in Resources */,
+				84BA12DF1BDA2BD800F44EE3 /* pic_4.jpg in Resources */,
+				84BA12DE1BDA2BD800F44EE3 /* pic_3.jpg in Resources */,
+				84BA12E11BDA2BD800F44EE3 /* pic_5.jpg in Resources */,
 				84BA12C61BDA28D400F44EE3 /* Assets.xcassets in Resources */,
-				84BA12C41BDA28D400F44EE3 /* Main.storyboard in Resources */,
+				84BA12DD1BDA2BD800F44EE3 /* pic_2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -150,23 +205,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				84BA12C11BDA28D400F44EE3 /* ViewController.m in Sources */,
+				84BA12EA1BDA2CDB00F44EE3 /* MBScrollView.m in Sources */,
 				84BA12BE1BDA28D400F44EE3 /* AppDelegate.m in Sources */,
+				84BA12E31BDA2BD800F44EE3 /* UIView+frameAdjust.m in Sources */,
 				84BA12BB1BDA28D400F44EE3 /* main.m in Sources */,
+				84BA12E71BDA2C3800F44EE3 /* ScrollingViewController.m in Sources */,
+				84BA12E21BDA2BD800F44EE3 /* UIImage+Expand.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		84BA12C21BDA28D400F44EE3 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				84BA12C31BDA28D400F44EE3 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		84BA12C71BDA28D400F44EE3 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -214,7 +264,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
@@ -251,7 +301,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -261,8 +311,8 @@
 		84BA12CE1BDA28D400F44EE3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MBScrollViewScrolling/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.coder.MBScrollViewScrolling;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -272,8 +322,8 @@
 		84BA12CF1BDA28D400F44EE3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MBScrollViewScrolling/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.coder.MBScrollViewScrolling;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -299,6 +349,7 @@
 				84BA12CF1BDA28D400F44EE3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
