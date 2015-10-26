@@ -2,7 +2,7 @@
 //  ScrollingViewController.h
 //  MBScrollViewScrolling
 //
-//  Created by Admin on 15/10/23.
+//  Created by yulei on 15/10/23.
 //  Copyright © 2015年 yulei. All rights reserved.
 //
 

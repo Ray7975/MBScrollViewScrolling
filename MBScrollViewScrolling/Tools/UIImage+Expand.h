@@ -1,9 +1,9 @@
 //
 //  UIImage+Expand.h
-//  SeedSocial
+//  MBScrollViewScrolling
 //  功能描述 - 图片扩展
-//  Created by Admin on 15/5/17.
-//  Copyright (c) 2015年 altamob. All rights reserved.
+//  Created by yulei on 15/5/17.
+//  Copyright (c) 2015年 yulei. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

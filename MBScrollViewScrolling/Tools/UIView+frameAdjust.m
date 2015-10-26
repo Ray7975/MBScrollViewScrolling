@@ -1,9 +1,9 @@
 //
 //  UIView+frameAdjust.m
-//  SeedGirl
+//  MBScrollViewScrolling
 //
-//  Created by Admin on 15/10/13.
-//  Copyright © 2015年 OASIS. All rights reserved.
+//  Created by yulei on 15/10/13.
+//  Copyright © 2015年 yulei. All rights reserved.
 //
 
 #import "UIView+frameAdjust.h"
